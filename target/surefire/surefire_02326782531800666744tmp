@@ -1,0 +1,6 @@
+#surefire_0
+#Fri Mar 19 21:16:35 WIB 2021
+environment=stage
+user.dir=/Users/ustore/eclipse-workspace/fullstack-automation
+localRepository=/Users/ustore/.m2/repository
+basedir=/Users/ustore/eclipse-workspace/fullstack-automation

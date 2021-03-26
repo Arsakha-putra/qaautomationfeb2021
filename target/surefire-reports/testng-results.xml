@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="10034" started-at="2021-03-19T14:16:41Z" finished-at="2021-03-19T14:16:51Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="10034" started-at="2021-03-19T14:16:41Z" finished-at="2021-03-19T14:16:51Z">
+      <class name="com.jakartalabs.fullstack_automation.APITests">
+        <test-method status="PASS" signature="testloginAPIWithIncorrectCredentials()[pri:1, instance:com.jakartalabs.fullstack_automation.APITests@19ae6bb]" name="testloginAPIWithIncorrectCredentials" duration-ms="4593" started-at="2021-03-19T14:16:41Z" finished-at="2021-03-19T14:16:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testloginAPIWithIncorrectCredentials -->
+        <test-method status="PASS" signature="testloginAPI()[pri:1, instance:com.jakartalabs.fullstack_automation.APITests@19ae6bb]" name="testloginAPI" duration-ms="6606" started-at="2021-03-19T14:16:41Z" finished-at="2021-03-19T14:16:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testloginAPI -->
+        <test-method status="PASS" signature="testDashboardAPI()[pri:2, instance:com.jakartalabs.fullstack_automation.APITests@19ae6bb]" name="testDashboardAPI" duration-ms="3381" started-at="2021-03-19T14:16:48Z" finished-at="2021-03-19T14:16:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDashboardAPI -->
+      </class> <!-- com.jakartalabs.fullstack_automation.APITests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
